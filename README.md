@@ -1,10 +1,10 @@
-# 🪙 Kalshi Trading Bot
+# 🪙Kalshi Trading Bot
 
 An Python bot that scans the **Kalshi** prediction-market exchange and recommends trades based on large-language-model (Gemini 2.5 Flash) signals.
 
 ---
 
-## ✨  Features
+##   Features
 
 | Area              | What it does                                                                                                                             |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -16,7 +16,7 @@ An Python bot that scans the **Kalshi** prediction-market exchange and recommend
 
 ---
 
-## 🏃‍♂️  Quick Start
+##   Quick Start
 
 ```bash
 git clone https://github.com/zluqman206/trading_bot.git
