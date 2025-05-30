@@ -1,4 +1,4 @@
-# 🪙Kalshi Trading Bot
+# Kalshi Trading Bot
 
 An Python bot that scans the **Kalshi** prediction-market exchange and recommends trades based on large-language-model (Gemini 2.5 Flash) signals.
 
