@@ -1,5 +1,4 @@
-# kalshi-starter-code-python
-Example python code for accessing api-authenticated endpoints on [Kalshi](https://kalshi.com). This is not an SDK. 
+# Trading Bot
 
 ## Installation 
 Install requirements.txt in a virtual environment of your choice and execute main.py from within the repo.
